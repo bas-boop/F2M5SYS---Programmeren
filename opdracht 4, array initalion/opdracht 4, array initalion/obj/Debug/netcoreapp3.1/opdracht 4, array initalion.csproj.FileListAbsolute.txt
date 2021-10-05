@@ -1,0 +1,13 @@
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\opdracht 4, array initalion\opdracht 4, array initalion\bin\Debug\netcoreapp3.1\opdracht 4, array initalion.exe
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\opdracht 4, array initalion\opdracht 4, array initalion\bin\Debug\netcoreapp3.1\opdracht 4, array initalion.deps.json
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\opdracht 4, array initalion\opdracht 4, array initalion\bin\Debug\netcoreapp3.1\opdracht 4, array initalion.runtimeconfig.json
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\opdracht 4, array initalion\opdracht 4, array initalion\bin\Debug\netcoreapp3.1\opdracht 4, array initalion.runtimeconfig.dev.json
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\opdracht 4, array initalion\opdracht 4, array initalion\bin\Debug\netcoreapp3.1\opdracht 4, array initalion.dll
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\opdracht 4, array initalion\opdracht 4, array initalion\bin\Debug\netcoreapp3.1\opdracht 4, array initalion.pdb
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\opdracht 4, array initalion\opdracht 4, array initalion\obj\Debug\netcoreapp3.1\opdracht 4, array initalion.csprojAssemblyReference.cache
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\opdracht 4, array initalion\opdracht 4, array initalion\obj\Debug\netcoreapp3.1\opdracht 4, array initalion.AssemblyInfoInputs.cache
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\opdracht 4, array initalion\opdracht 4, array initalion\obj\Debug\netcoreapp3.1\opdracht 4, array initalion.AssemblyInfo.cs
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\opdracht 4, array initalion\opdracht 4, array initalion\obj\Debug\netcoreapp3.1\opdracht 4, array initalion.csproj.CoreCompileInputs.cache
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\opdracht 4, array initalion\opdracht 4, array initalion\obj\Debug\netcoreapp3.1\opdracht 4, array initalion.dll
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\opdracht 4, array initalion\opdracht 4, array initalion\obj\Debug\netcoreapp3.1\opdracht 4, array initalion.pdb
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\opdracht 4, array initalion\opdracht 4, array initalion\obj\Debug\netcoreapp3.1\opdracht 4, array initalion.genruntimeconfig.cache

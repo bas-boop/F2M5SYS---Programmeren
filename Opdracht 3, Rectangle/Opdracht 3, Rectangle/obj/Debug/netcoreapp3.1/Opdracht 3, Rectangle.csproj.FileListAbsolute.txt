@@ -1,0 +1,13 @@
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\Opdracht 3, Rectangle\Opdracht 3, Rectangle\bin\Debug\netcoreapp3.1\Opdracht 3, Rectangle.exe
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\Opdracht 3, Rectangle\Opdracht 3, Rectangle\bin\Debug\netcoreapp3.1\Opdracht 3, Rectangle.deps.json
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\Opdracht 3, Rectangle\Opdracht 3, Rectangle\bin\Debug\netcoreapp3.1\Opdracht 3, Rectangle.runtimeconfig.json
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\Opdracht 3, Rectangle\Opdracht 3, Rectangle\bin\Debug\netcoreapp3.1\Opdracht 3, Rectangle.runtimeconfig.dev.json
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\Opdracht 3, Rectangle\Opdracht 3, Rectangle\bin\Debug\netcoreapp3.1\Opdracht 3, Rectangle.dll
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\Opdracht 3, Rectangle\Opdracht 3, Rectangle\bin\Debug\netcoreapp3.1\Opdracht 3, Rectangle.pdb
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\Opdracht 3, Rectangle\Opdracht 3, Rectangle\obj\Debug\netcoreapp3.1\Opdracht 3, Rectangle.csprojAssemblyReference.cache
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\Opdracht 3, Rectangle\Opdracht 3, Rectangle\obj\Debug\netcoreapp3.1\Opdracht 3, Rectangle.AssemblyInfoInputs.cache
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\Opdracht 3, Rectangle\Opdracht 3, Rectangle\obj\Debug\netcoreapp3.1\Opdracht 3, Rectangle.AssemblyInfo.cs
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\Opdracht 3, Rectangle\Opdracht 3, Rectangle\obj\Debug\netcoreapp3.1\Opdracht 3, Rectangle.csproj.CoreCompileInputs.cache
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\Opdracht 3, Rectangle\Opdracht 3, Rectangle\obj\Debug\netcoreapp3.1\Opdracht 3, Rectangle.dll
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\Opdracht 3, Rectangle\Opdracht 3, Rectangle\obj\Debug\netcoreapp3.1\Opdracht 3, Rectangle.pdb
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\Opdracht 3, Rectangle\Opdracht 3, Rectangle\obj\Debug\netcoreapp3.1\Opdracht 3, Rectangle.genruntimeconfig.cache

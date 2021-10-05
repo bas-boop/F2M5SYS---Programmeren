@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "opdracht 4, array initalion/1.0.0": {
+        "runtime": {
+          "opdracht 4, array initalion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "opdracht 4, array initalion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

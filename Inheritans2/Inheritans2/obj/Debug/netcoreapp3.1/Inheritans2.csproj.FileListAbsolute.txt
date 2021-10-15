@@ -1,0 +1,4 @@
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\Inheritans2\Inheritans2\obj\Debug\netcoreapp3.1\Inheritans2.csprojAssemblyReference.cache
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\Inheritans2\Inheritans2\obj\Debug\netcoreapp3.1\Inheritans2.AssemblyInfoInputs.cache
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\Inheritans2\Inheritans2\obj\Debug\netcoreapp3.1\Inheritans2.AssemblyInfo.cs
+D:\MA\Bewijzenmap\Periode 2.1\SYS\Programmeren\Inheritans2\Inheritans2\obj\Debug\netcoreapp3.1\Inheritans2.csproj.CoreCompileInputs.cache
